@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662407456 source:c:\users\klabi\onedrive\Área de trabalho\programação estruturada\ex booblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
